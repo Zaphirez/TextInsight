@@ -1,0 +1,2 @@
+﻿Change Encoding in code if needed!
+Standard = "utf-8"
